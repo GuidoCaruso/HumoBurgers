@@ -257,7 +257,7 @@ div#galeria:hover img:hover {
 
 .w-100 {
   width: 100%!important;
-  height: 100% !important;
+  height: 100%;
 }
 
 @media (min-width: 768px) {
