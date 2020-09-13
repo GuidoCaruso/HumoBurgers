@@ -255,10 +255,6 @@ div#galeria:hover img:hover {
   user-select: none;
 }
 
-.w-100 {
-  width: 100%!important;
-  height: 100%;
-}
 
 @media (min-width: 768px) {
   .bd-placeholder-img-lg {
@@ -357,6 +353,11 @@ form {
   z-index: 102;
   overflow: visible;
   background: #161516 url("../images/gifpreload.gif") no-repeat center center;
+}
+
+.w-100 {
+  width: 100%!important;
+  height: 100%!important;
 }
 
 footer {
