@@ -369,6 +369,31 @@ margin-top: 2%;
   
 }
 
+#PaginaNoEncontrada {
+  padding-top: 150px;
+ }
+
+#PaginaNoEncontrada h1 {
+  font-family: "Archivo Black", sans-serif;
+  color: white;
+  font-size: 2rem;
+  text-align: center;
+  margin-bottom: 3%;
+}
+
+#PaginaNoEncontrada a {
+  display: flex; 
+  justify-content: center;
+  margin-bottom: 3%;
+
+}
+
+
+#PaginaNoEncontrada p {
+  display: flex; 
+  justify-content: center; .
+}
+
 footer {
   background-color: #161516;
 }
